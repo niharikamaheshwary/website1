@@ -27,7 +27,7 @@ The homepage consists of a list of all the team names. On clicking the team name
  <center><img src="https://github.com/niharikamaheshwary/website1/blob/master/website1/memberslist.png" width="500" height="300"><center>
  
  ## Instructions to run
- Download all the files and then use pycharm/any other IDE and run manage.py within your project. Then use runserver to run it. Once you get the url click on it. Use (/ITSP) http://localhost:8000/ITSP/ to check the homepage of the website which contains a list of team members which when clicked gives further details of the team. If you use http://localhost:8000/admin/ to view the admin page where you can add/delete/change/alter team details. To view Rest API use http://localhost:8000/Team/ and http://127.0.0.1:8000/Members/ .
+ Download all the files and then use pycharm/any other IDE and run manage.py within your project. Then use runserver to run it. Once you get the url click on it. Use (/ITSP) http://localhost:8000/ITSP/ to check the homepage of the website which contains a list of team members which when clicked gives further details of the team. If you use http://localhost:8000/admin/ to view the admin page where you can add/delete/change/alter team details. To view Rest API use http://localhost:8000/Team/ and http://localhost:8000/Members/ .
 
 
 
