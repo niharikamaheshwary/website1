@@ -9,22 +9,22 @@ We are creating a database which contains the name, ID, and team members of all 
 
 ### Admin
 Using the url and then using /admin we can access the admin webpage. (username:admin , password:1234) This where you can edit all the teams. You can add/delete/change/alter team names, ids, and members. 
-<center> <img src="https://github.com/niharikamaheshwary/website1/blob/master/website1/admins.png" width="500" height="500"></center>
-<center><img src="https://github.com/niharikamaheshwary/website1/blob/master/website1/djangoadminteam.png" width="500" height="500"></center>
+<center> <img src="https://github.com/niharikamaheshwary/website1/blob/master/website1/admins.png" width="500" height="300"></center>
+<center><img src="https://github.com/niharikamaheshwary/website1/blob/master/website1/djangoadminteam.png" width="500" height="300"></center>
 
 ### Website
 The homepage consists of a list of all the team names. On clicking the team name further details of the teams are visible.
-<center> <img src="https://github.com/niharikamaheshwary/website1/blob/master/website1/hompage.png" width="500" height="500"></center>
+<center> <img src="https://github.com/niharikamaheshwary/website1/blob/master/website1/hompage.png" width="500" height="300"></center>
 
 #### On clicking :
-<center> <img src="https://github.com/niharikamaheshwary/website1/blob/master/website1/click.png" width="500" height="500"></center>
+<center> <img src="https://github.com/niharikamaheshwary/website1/blob/master/website1/click.png" width="500" height="300"></center>
 
 ### Rest API
  Created Rest API using DJANGO REST API which displays all the details from the database. If you use the website url and then use /Team you get to see Teams list and if yoy use /Members you get to see members list.
- <center><img src="https://github.com/niharikamaheshwary/website1/blob/master/website1/teamlist.png" width="500" height="500"><center>
+ <center><img src="https://github.com/niharikamaheshwary/website1/blob/master/website1/teamlist.png" width="500" height="300"><center>
  
  #### and for Team Members 
- <center><img src="https://github.com/niharikamaheshwary/website1/blob/master/website1/memberslist.png" width="500" height="500"><center>
+ <center><img src="https://github.com/niharikamaheshwary/website1/blob/master/website1/memberslist.png" width="500" height="300"><center>
  
  ## Instructions to run
  Download all the files and then use pycharm/any other IDE and run manage.py within your project. Then use runserver to run it. Once you get the url click on it. Use (/ITSP) http://localhost:8000/ITSP/ to check the homepage of the website which contains a list of team members which when clicked gives further details of the team. If you use http://localhost:8000/admin/ to view the admin page where you can add/delete/change/alter team details. To view Rest API use http://localhost:8000/Team/ and http://127.0.0.1:8000/Members/ .
