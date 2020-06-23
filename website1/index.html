@@ -1,0 +1,5 @@
+<ul>
+    {% for team in all_teams %}
+    <li><a href="/ITSP/{{ team.id }}/">{{ team.name }}</a></li>
+    {% endfor %}
+</ul>

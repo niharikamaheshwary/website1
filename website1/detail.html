@@ -1,0 +1,7 @@
+<h1> {{ team.name  }}</h1>
+<h3> {{ team.ids }}</h3>
+<ul>
+    {% for members in team.members_set.all %}
+    <li> {{ members.members_name }} </li>
+    {% endfor %}
+</ul>
