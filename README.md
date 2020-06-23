@@ -1,5 +1,5 @@
 # website1
-ITSP website-
+ITSP website- Backend Development 
 
 ## Content
 ITSP website displaying team names. On clicking on any team, further details of the team like team id, and name of team members are available.
@@ -12,6 +12,11 @@ Using the link and then using /admin we can access the admin webpage. (username:
 
 ### Website
 The homepage consists of a list of all the team names. On clicking the team name further details of the teams are visible.
-<center> <img src="https://github.com/niharikamaheshwary/website1/blob/master/website1/hompage.png"></center
+<center> <img src="https://github.com/niharikamaheshwary/website1/blob/master/website1/hompage.png"></center>
+#### On clicking :
+<center> <img src="https://github.com/niharikamaheshwary/website1/blob/master/website1/click.png"></center>
+
+### Rest API
+
 
 
