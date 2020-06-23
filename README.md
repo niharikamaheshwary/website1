@@ -1,5 +1,5 @@
-# website for ITSP (backend)
-ITSP website- Backend Development 
+# Website for ITSP (Backend Development)
+ITSP website- Backend Development using Django. 
 
 ## Content
 ITSP website displaying team names. On clicking on any team, further details of the team like team id, and name of team members are available.
