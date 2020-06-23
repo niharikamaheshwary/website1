@@ -15,13 +15,15 @@ Using the url and then using /admin we can access the admin webpage. (username:a
 ### Website
 The homepage consists of a list of all the team names. On clicking the team name further details of the teams are visible.
 <center> <img src="https://github.com/niharikamaheshwary/website1/blob/master/website1/hompage.png"></center>
-### On clicking :
-<center> <img src="https://github.com/niharikamaheshwary/website1/blob/master/website1/click.png"></center>
+
+#### On clicking :
+<center> <img src="https://github.com/niharikamaheshwary/website1/blob/master/website1/click.png" width="200" height="250"></center>
 
 ### Rest API
  Created Rest API using DJANGO REST API which displays all the details from the database. If you use the website url and then use /Team you get to see Teams list and if yoy use /Members you get to see members list.
  <center><img src="https://github.com/niharikamaheshwary/website1/blob/master/website1/teamlist.png"><center>
- ### and for Team Members 
+ 
+ #### and for Team Members 
  <center><img src="https://github.com/niharikamaheshwary/website1/blob/master/website1/memberslist.png"><center>
  
  ## Instructions to run
